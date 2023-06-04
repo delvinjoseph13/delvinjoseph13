@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi, <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="45" alt="✋"> I'm Delvin</h1>
 
-<h3 align="center"><a href="https://github.com/karthi57"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://github.com/delvinjoseph13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 
 
-<img align="right" alt="coding" width="430" src="[https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw3sD5iMm8IgZ7gM1Aqabk-b&ust=1685951562777000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiOlJKRqf8CFQAAAAAdAAAAABAF)">
+<img align="right" alt="coding" width="430" src="https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=delvinjoseph13&label=Profile%20views&color=0e75b6&style=flat" alt="delvinjoseph13" /> </p>
 <br>
 
 
@@ -68,7 +68,7 @@
 <br>-->
 
 <h3 align="left">Languages and Tools:</h3><br>
-<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,flutter,mysql,html,css,wordpress,bootstrap,github,visualstudioperline">
+<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,flutter,mysql,html,css,bootstrap,github,visualstudioperline">
 </p>
 
 <br>
@@ -111,6 +111,5 @@
 <!--<p align="left">
 <a href="https://instagram.com/vibeswithkarthik" target="blank"><img align="center" src="https://www.svgrepo.com/show/474324/instagram.svg" alt="vibeswithkarthik" height="50" width="40" />vibeswithkarthik</a>
 </p> -->
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter logo" />
-    <img width="12" />
+ 
 
