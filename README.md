@@ -68,7 +68,7 @@
 <br>-->
 
 <h3 align="left">Languages and Tools:</h3><br>
-<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,flutter,mysql,html,css,bootstrap,github,visualstudioperline">
+<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,figma,javascript,flutter,mysql,html,css,bootstrap,github,visualstudioperline">
 </p>
 
 <br>
