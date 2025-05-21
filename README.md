@@ -68,7 +68,7 @@
 <br>-->
 
 <h3 align="left">Languages and Tools:</h3><br>
-<p align="left"><img align="center" src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,python,flutter,mysql,PostgreSQL,html,css,tailwind,bootstrap,git,,github,visualstudioperline">
+<p align="left"><img align="center" src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,python,flutter,mysql,postgresql,html,css,tailwind,bootstrap,git,,github,visualstudioperline">
 </p>
 
 <br>
