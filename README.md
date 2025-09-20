@@ -7,7 +7,7 @@
 <h3 align="center"><a href="https://github.com/delvinjoseph13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 ---
 
-<img align="right" alt="coding" width="430" src="https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966">
+<img align="right" alt="coding" width="430" src="![Image](https://github.com/user-attachments/assets/458d42b4-054d-4bb7-9d98-b24b1714b765)">
 
 ### 👨‍🎓 About Me
 
