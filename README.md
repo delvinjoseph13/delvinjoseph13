@@ -40,11 +40,13 @@
 
 ---
 
+<!--
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=delvinjoseph13&theme=react-dark&area=true&hide_border=true" />
 </p>
+-->
 
 ### 📈 Contribution Graph
 
