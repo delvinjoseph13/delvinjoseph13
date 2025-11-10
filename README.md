@@ -23,7 +23,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,flutter,mysql,postgresql,html,css,tailwind,bootstrap,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,flutter,mysql,postgresql,html,css,tailwind,bootstrap,git,github,vscode,figma,dotnet" />
 </p>
 
 ---
