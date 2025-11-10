@@ -10,7 +10,7 @@
  -->
 <!-- <img align="right" alt="coding" width="430" src="![Image](https://github.com/user-attachments/assets/458d42b4-054d-4bb7-9d98-b24b1714b765)">
  -->
-### 👨‍🎓 About Me
+ 👨‍🎓 About Me
 
 - 🎓 Student at **KVG Engineering College, Sullia**
 - 💻 Passionate about **Full Stack Development**, **Flutter**, and **AI**
@@ -23,7 +23,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,flutter,mysql,postgresql,html,css,tailwind,bootstrap,git,github,vscode,figma,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,flutter,mysql,postgresql,html,css,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
